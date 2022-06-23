@@ -119,7 +119,7 @@ input[type=email], select, textarea {
   }
 
   
-  input[type=submit] {
+  input[type=button] {
     background-color: #f46055;
     color: white;
     padding: 12px 20px;
@@ -129,12 +129,12 @@ input[type=email], select, textarea {
   }
   
   
-  input[type=submit]:hover {
+  input[type=button]:hover {
     background-color: #f46055;
   }
   
   
-  .form {
+  .container {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
